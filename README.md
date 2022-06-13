@@ -3,9 +3,9 @@
 
  I'm a 👩‍💻 Full-stack developer student looking for an internship to continue learning and eventually get a job as Dev.
 
-Skills:  / JS / HTML / CSS / SASS / Bootstrap
+Skills:  / JS / HTML / CSS / Bootstrap / Node.js
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning MongoDB
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lizrag)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/laurarangelroman/)  
