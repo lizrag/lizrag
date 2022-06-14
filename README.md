@@ -3,7 +3,7 @@
 
  I'm a 👩‍💻 Full-stack developer student looking for an internship to continue learning and eventually get a job as Dev.
 
-Skills:  / JS / HTML / CSS / Bootstrap / Node.js
+Skills:  / JS / HTML / CSS / Bootstrap / Node.js / Express.js / Mongoose
 
 - 🌱 I’m currently learning MongoDB
 
