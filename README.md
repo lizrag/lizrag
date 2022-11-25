@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Liz
 ![](/banner.png)
 
- I'm a 👩‍💻 Backend developer student looking for an internship to continue learning and eventually get a job as Dev.
+ I'm a 👩‍💻 Backend developer intern.
 
 Skills:  / JS / HTML / CSS / Bootstrap / Node.js / Express.js / Mongoose / MySQL
 
