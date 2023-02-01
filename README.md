@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Liz
 ![](/banner.png)
- I'm a 👩‍💻 Backend developer intern.
+ I'm a 👩‍💻 Backend Developer.
 
 Skills:  / JS / HTML / CSS / Bootstrap / Node.js / Express.js / Mongoose / MySQL / Python / Django
 
